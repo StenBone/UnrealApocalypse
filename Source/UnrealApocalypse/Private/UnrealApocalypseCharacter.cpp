@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Unreal Apocalypse. All Rights Reserved.
 
 #include "UnrealApocalypseCharacter.h"
 #include "UnrealApocalypseProjectile.h"
